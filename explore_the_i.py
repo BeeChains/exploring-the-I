@@ -41,8 +41,7 @@ def educational_content():
         st.write("""
         - "Being and Time" by Martin Heidegger
         - "The Power of Now" by Eckhart Tolle
-        - [Link to a meditation guide](#)
-        """)
+        - [Inner I](http://the.inneri.hns.to/)
 
 # Main app structure
 def main():
