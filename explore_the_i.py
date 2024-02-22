@@ -15,7 +15,7 @@ def meditation_practice():
     st.write("Engage in guided meditation practices designed to bring you closer to the experience of 'I Am' and the inner 'I'.")
     if st.button("Start Guided Meditation"):
         # Placeholder for meditation audio or instructions
-        st.write("Imagine you are sitting by a serene lake, observing the gentle movement of water...")
+        st.write("Imagine you are sitting by a serene lake, observing the gentle movement of water and finding a reflection of your own peaceful nature...")
         
 # Function for experiential philosophy activities
 def experiential_philosophy():
